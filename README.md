@@ -20,3 +20,16 @@ None
 
 ## Created by
 Logan Ankney
+
+
+
+Extra - 
+
+Created Assets for Space Dragon enemy and small planets - these act as asteroid obstacles in level_2.
+
+Extra enemy - Dragon Shoots 4 seperate bullets as apposed to enemies, acts as a final boss with larger HP pool
+
+Background Image for levels 1 and 2 as space and black hole
+
+Add a level 2 to the game
+
